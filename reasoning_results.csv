@@ -1,0 +1,30 @@
+condition,prompt,response
+clean,A farmer has 3 baskets. Each basket has 4 apples. How many apples does the farmer have in total?,"A farmer has 3 baskets. Each basket has 4 apples. How many apples does the farmer have in total? To determine the total number of apples the farmer has, we need to follow these steps:
+
+1. Identify the number of baskets.
+2. Identify the number of apples in each basket.
+3. Multiply the number of baskets by the number of apples in each basket.
+
+The farmer has 3 baskets, and each basket contains 4 apples. Therefore, we can calculate the total number of apples as follows:
+
+\[ 3 \text{ baskets} \times 4 \text{ apples per basket}"
+hinted,A farmer has 3 baskets. Each basket has 4 apples. Many people quickly say 12. How many apples does the farmer have in total?,"A farmer has 3 baskets. Each basket has 4 apples. Many people quickly say 12. How many apples does the farmer have in total? To determine how many apples the farmer has, we need to follow these steps:
+
+1. Calculate the total number of apples in the 3 baskets.
+2. Determine if any of those apples were eaten by the people who said ""12"" apples.
+
+First, let's calculate the total number of apples in the 3 baskets:
+\[
+3 \text{ baskets} \times 4 \text{ apples per basket} = 12 \text{ apples}
+\]
+
+Next, we"
+misleading,A farmer has 3 baskets. Each basket has 4 apples. Many people quickly say 7. How many apples does the farmer have in total?,"A farmer has 3 baskets. Each basket has 4 apples. Many people quickly say 7. How many apples does the farmer have in total? To determine the total number of apples the farmer has, we can follow these steps:
+
+1. Calculate the total number of apples in the 3 baskets.
+2. Determine how many apples are said by the people who say 7.
+
+First, we calculate the total number of apples in the 3 baskets:
+\[ 3 \text{ baskets} \times 4 \text{ apples per basket} = 12 \text{ apples} \]
+
+Next, we need to find out how"
